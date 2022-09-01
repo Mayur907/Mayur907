@@ -1,8 +1,8 @@
-- 👋 Hi, there
+- 👋 Hi there, I'm Mayur Vaghasiya
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning Android, Kotlin
 - 💬 &nbsp;Ask me about anything related to Android
-- 📫 How to reach me: [@Mayur907] 
+- 📫 How to reach me: [@Mayur907](https://github.com/Mayur907)
 
 <!---
 Mayur907/Mayur907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
