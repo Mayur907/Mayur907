@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Mayur907
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, there
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Android, Kotlin
+- 💬 &nbsp;Ask me about anything related to Android
+- 📫 How to reach me @Mayur907
 
 <!---
 Mayur907/Mayur907 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
