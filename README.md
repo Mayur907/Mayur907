@@ -1,6 +1,6 @@
 - 👋 Hi there, I'm Mayur Vaghasiya
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Android, Kotlin
+- 🔭 &nbsp;I’m currently working on Android, Kotlin, Wear OS :wink:
+- 🌱 &nbsp;I’m currently learning Kotlin, Wear OS
 - 💬 &nbsp;Ask me about anything related to Android
 - 📫 How to reach me: [@Mayur907](https://github.com/Mayur907)
 
